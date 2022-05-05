@@ -24,3 +24,5 @@ seperate line down
 |:---:|:---|
 |007|Bond|
 |001|Godfrey|
+
+I love ☕:pizza:, 🥀,and 💃.
